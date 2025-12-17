@@ -210,7 +210,7 @@ Use data dashboards for real-time patient risk monitoring.
 
 ## Dashboard Preview
 
-![Screenshort](https://github.com/ritik168/Heart-Disease-Analysis-Dashboard/blob/main/Heart_Disease_Background.png)
+![Screenshort](https://github.com/ritik168/Heart-Disease-Analysis-Dashboard/blob/main/Screenshot%202025-12-16%20235403.png)
 
 
 ## Project End
